@@ -1,3 +1,0 @@
-# CodeChallenge
-
-Coding Challenge
